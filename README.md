@@ -30,6 +30,19 @@ That's all!
 
 * MinGW & MSYS environments installed and <b>properly set up</b>.
 
+# Main Projects ready to be installed
+
+| Project | Version |
+| :-----: | :-----: |
+| Boost | 1.74.0 |
+| CMake | 3.18.1 |
+| Curl | 7.71.1 |
+| Cyrus SASL | 2.1.27 |
+| Ninja | 1.10.1 |
+| OpenLDAP | 2.4.52 |
+| OpenSSL | 1.1.1g |
+| Python | 2.7.18 |
+
 # Questions, problems or feature requests
 
 You can open an issue, a pull request or send me an e-mail. Any help is much appreciated!
