@@ -8,13 +8,15 @@ This project will provide you with ready-to-use libraries in no time!
 
 # Usage
 
-* pkg-search <library name>
+* pkg-search \<library name\>
 
-* pkg-install <library name>
-
+* pkg-install \<library name\>
 
 # Examples
 
+![image](https://user-images.githubusercontent.com/70483213/92017034-82968000-ed96-11ea-8fea-ca1a949e3953.png)
+
+![image](https://user-images.githubusercontent.com/70483213/92017354-fc2e6e00-ed96-11ea-83b9-8623011da770.png)
 
 # Installation
 
