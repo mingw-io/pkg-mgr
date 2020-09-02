@@ -43,6 +43,8 @@ That's all!
 | OpenSSL | 1.1.1g |
 | Python | 2.7.18 |
 
+And many, many other libraries!
+
 # Questions, problems or feature requests
 
 You can open an issue, a pull request or send me an e-mail. Any help is much appreciated!
