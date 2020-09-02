@@ -38,10 +38,13 @@ That's all!
 | CMake | 3.18.1 |
 | Curl | 7.71.1 |
 | Cyrus SASL | 2.1.27 |
+| GLib | 2.53.3 |
 | Ninja | 1.10.1 |
 | OpenLDAP | 2.4.52 |
 | OpenSSL | 1.1.1g |
+| PostgreSQL | 12.4 |
 | Python | 2.7.18 |
+| SQLite | 3.33.0 |
 
 And many, many other libraries!
 
