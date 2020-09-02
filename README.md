@@ -18,6 +18,8 @@ This project will provide you with ready-to-use libraries in no time!
 
 ![image](https://user-images.githubusercontent.com/70483213/92017354-fc2e6e00-ed96-11ea-83b9-8623011da770.png)
 
+![image](https://user-images.githubusercontent.com/70483213/92018116-0ef57280-ed98-11ea-991d-0b2cf1eff0a7.png)
+
 # Installation
 
 Just download the latest version found here.<br />
