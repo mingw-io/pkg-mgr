@@ -1,53 +1,56 @@
 # pkg-mgr
-Package manager for MinGW/MSYS Environments
+Package manager for Windows Toolchains (MSVC & MinGW/MSYS)
 
 # About
 
-The goal of this project is to simplify the installation of both libraries and binaries on Windows.<br />
-This project will provide you with ready-to-use libraries in no time!
+The goal of this project is to simplify the installation of both libraries and tools on Windows.<br />
+This project will provide you with ready-to-use libraries and complete projects in no time!
 
 # Usage
 
-* pkg-search \<library name\>
+* pkg-mgr install \<library name\>
 
-* pkg-install \<library name\>
 
 # Examples
 
-![image](https://user-images.githubusercontent.com/70483213/92017034-82968000-ed96-11ea-8fea-ca1a949e3953.png)
+![screenshot-I](https://user-images.githubusercontent.com/70483213/141781657-abd1df78-fd45-4694-9fb2-34b6fd4ce78c.png)
 
-![image](https://user-images.githubusercontent.com/70483213/92017354-fc2e6e00-ed96-11ea-83b9-8623011da770.png)
+![screenshot-IV](https://user-images.githubusercontent.com/70483213/141782232-44027146-0654-44eb-857f-7674333e6dfa.png)
 
-![image](https://user-images.githubusercontent.com/70483213/92018116-0ef57280-ed98-11ea-991d-0b2cf1eff0a7.png)
+![vs-tools-I](https://user-images.githubusercontent.com/70483213/141782281-6338f315-3f5b-4af3-a541-24df8fa6deae.png)
+
+![screenshot-III](https://user-images.githubusercontent.com/70483213/141782560-8f259a0f-e41f-411b-a95d-772245f198fa.png)
 
 # Installation
 
 Just download the latest version found here.<br />
-Then, untar the downloaded file onto your MinGW root prefix (e.g. C:\MinGW).<br />
 That's all!
 
 # Dependencies
 
+* None
+
+# Environments Supported
+
+* Visual Studio 2015, 2017, 2019 & 2022
+
 * MinGW & MSYS environments installed and <b>properly set up</b>.
 
-# Main Projects ready to be installed
+# Features/Advantages
 
-| Project | Version |
-| :-----: | :-----: |
-| Boost | 1.74.0 |
-| CMake | 3.18.1 |
-| Curl | 7.71.1 |
-| Cyrus SASL | 2.1.27 |
-| GLib | 2.53.3 |
-| Ninja | 1.10.1 |
-| OpenLDAP | 2.4.52 |
-| OpenSSL | 1.1.1g |
-| PostgreSQL | 12.4 |
-| Python | 2.7.18 |
-| SQLite | 3.33.0 |
+* Super fast
+* No dependencies
+* No administrator privileges required
+* Easy to use
+* Per user installations
+* Reliable
+* Online support
 
-And many, many other libraries!
+# Available Packages
+New packages are added (and updated) all the time.
 
-# Questions, problems or feature requests
+![screenshot-II](https://user-images.githubusercontent.com/70483213/141786244-91f54304-ab49-425a-9092-192318718c05.png)
+
+# Questions, issues or feature requests
 
 You can open an issue, a pull request or send me an e-mail. Any help is much appreciated!
